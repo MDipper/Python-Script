@@ -8,7 +8,16 @@
 #Thunderbird      免费的电子邮件应用程序<br>
 #PotPlayer        网络播放器<br>
 #UltraISO         功能强大、方便实用、老牌优秀的光盘映像文件制作/编辑/转换工具<br>
-#getif            网络管理软件，SNMP协议查看交换机的OID等<br>
+#Getif            网络管理软件，SNMP协议查看交换机的OID等<br>
+#BestTrace        路由追踪测试
+#DiskGenius       磁盘分区工具
+#WePE             装机维护最得力的助手
+#F.lux            护眼神器
+#DiffMerge        代码比较工具
+#Eclipse          开放源代码的、基于Java的可扩展开发平台
+#PuTTY            Telnet、SSH、rlogin、纯TCP以及串行接口连接软件
+#Tftpd32          免费的开源IPv6就绪应用程序，包括DHCP，TFTP，DNS，SNTP和Syslog服务器以及TFTP客户端
+#Listary          实用的电脑资源搜索工具
 <br>
 <br>
 #CentOS           Linux系统<br>
