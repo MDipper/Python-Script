@@ -1,7 +1,7 @@
 ## 开源免费软件
-#7-Zip&emsp;            压缩软件<br>
-#LibreOffice      自由免费的全能办公套件<br>
-#WinSCP           Windows环境下使用SSH的开源图形化SFTP客户端<br>
+#7-Zip&emsp;&emsp;&emsp;压缩软件<br>
+#LibreOffice&emsp;&emsp;自由免费的全能办公套件<br>
+#WinSCP&emsp;&emsp;Windows环境下使用SSH的开源图形化SFTP客户端<br>
 #HeidiSQL         用于简单化迷你的 MySQL 服务器和数据库管理的图形化界面<br>
 #Thunderbird      免费的电子邮件应用程序<br>
 #PotPlayer        网络播放器<br>
