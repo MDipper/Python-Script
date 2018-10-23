@@ -4,24 +4,31 @@
 #Notepad++        非常有特色的编辑器<br>
 #LibreOffice      自由免费的全能办公套件<br>
 #WinSCP           Windows环境下使用SSH的开源图形化SFTP客户端<br>
+#Navicat          好用但收费的数据库管理工具<br>
 #HeidiSQL         用于简单化迷你的 MySQL 服务器和数据库管理的图形化界面<br>
+#DatabaseNet4     免费多重数据库管理工具<br>
+#MDB Viewer Plus  MDB文件编辑查看器<br>
 #Thunderbird      免费的电子邮件应用程序<br>
 #PotPlayer        网络播放器<br>
+#12306Bypass      分流火车票抢票软件
 #UltraISO         功能强大、方便实用、老牌优秀的光盘映像文件制作/编辑/转换工具<br>
 #Getif            网络管理软件，SNMP协议查看交换机的OID等<br>
-#BestTrace        路由追踪测试
-#DiskGenius       磁盘分区工具
-#WePE             装机维护最得力的助手
-#F.lux            护眼神器
-#DiffMerge        代码比较工具
-#Eclipse          开放源代码的、基于Java的可扩展开发平台
-#PuTTY            Telnet、SSH、rlogin、纯TCP以及串行接口连接软件
-#Tftpd32          免费的开源IPv6就绪应用程序，包括DHCP，TFTP，DNS，SNTP和Syslog服务器以及TFTP客户端
-#Listary          实用的电脑资源搜索工具
-#VirtualBox       开源虚拟机软件
-#RIOT             免费的图像优化器,图片压缩
-#wznmzhds         王者内码转换大师支持在 BIG5 码(繁体中文)和 GBK (简体中文)之间转换文件内码，特别地，能够自动转换 HTML 文件的内码制式。
-#MDB Viewer Plus  MDB文件编辑查看器
+#BestTrace        路由追踪测试<br>
+#DiskGenius       磁盘分区工具<br>
+#WePE             装机维护最得力的助手<br>
+#F.lux            护眼神器<br>
+#DiffMerge        代码比较工具<br>
+#Eclipse          开放源代码的、基于Java的可扩展开发平台<br>
+#Tomcat           Apache 开发的一个 Servlet 容器，实现了对 Servlet 和 JSP 的支持，并提供了作为Web服务器的一些特有功能<br>
+#PuTTY            Telnet、SSH、rlogin、纯TCP以及串行接口连接软件<br>
+#Tftpd32          免费的开源IPv6就绪应用程序，包括DHCP，TFTP，DNS，SNTP和Syslog服务器以及TFTP客户端<br>
+#Listary          实用的电脑资源搜索工具<br>
+#VirtualBox       开源虚拟机软件<br>
+#RIOT             免费的图像优化器,图片压缩<br>
+#wznmzhds         王者内码转换大师支持在 BIG5 码(繁体中文)和 GBK (简体中文)之间转换文件内码，特别地，能够自动转换 HTML 文件的内码制式<br>
+#Hitman Pro       优秀的多引擎云反病毒扫描器<br>
+#resource_hacker  适用于Windows®应用程序的免费软件资源编译器和反编译器<br>
+
 <br>
 <br>
 #CentOS           Linux系统<br>
