@@ -16,19 +16,19 @@
 <br>
 <br>
 #Android
-#ConnetBot        Android的第一个SSH客户端
-#PingTools Pro    非常强大的网络监控工具
-#Termux           Linux终端模拟器
-#Show Java        APK反编译神器
-#Pydroid 3        Python编程的软件
-#Via              极简浏览器
-#AccuBattery Pro  精准电量测量
-#SSR              Shadowsocks R/SSR客户端
-#Greenify         绿色化系统应用,休眠进程和省电必备神器
-#Speedtest        网络测速
-#ZArchier Pro     解压缩工具
-#TeamViewer       能在任何防火墙和NAT代理的后台用于远程控制的应用程序，桌面共享和文件传输的简单且快速的解决方案
-#APKPure          谷歌市场应用下载
-#Share            微博客户端
-#OfficeSuite Pro  办公套件
-#Google Translate 谷歌翻译
+#ConnetBot        Android的第一个SSH客户端<br>
+#PingTools Pro    非常强大的网络监控工具<br>
+#Termux           Linux终端模拟器<br>
+#Show Java        APK反编译神器<br>
+#Pydroid 3        Python编程的软件<br>
+#Via              极简浏览器<br>
+#AccuBattery Pro  精准电量测量<br>
+#SSR              Shadowsocks R/SSR客户端<br>
+#Greenify         绿色化系统应用,休眠进程和省电必备神器<br>
+#Speedtest        网络测速<br>
+#ZArchier Pro     解压缩工具<br>
+#TeamViewer       能在任何防火墙和NAT代理的后台用于远程控制的应用程序，桌面共享和文件传输的简单且快速的解决方案<br>
+#APKPure          谷歌市场应用下载<br>
+#Share            微博客户端<br>
+#OfficeSuite Pro  办公套件<br>
+#Google Translate 谷歌翻译<br>
