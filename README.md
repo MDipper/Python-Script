@@ -18,6 +18,10 @@
 #PuTTY            Telnet、SSH、rlogin、纯TCP以及串行接口连接软件
 #Tftpd32          免费的开源IPv6就绪应用程序，包括DHCP，TFTP，DNS，SNTP和Syslog服务器以及TFTP客户端
 #Listary          实用的电脑资源搜索工具
+#VirtualBox       开源虚拟机软件
+#RIOT             免费的图像优化器,图片压缩
+#wznmzhds         王者内码转换大师支持在 BIG5 码(繁体中文)和 GBK (简体中文)之间转换文件内码，特别地，能够自动转换 HTML 文件的内码制式。
+#MDB Viewer Plus  MDB文件编辑查看器
 <br>
 <br>
 #CentOS           Linux系统<br>
