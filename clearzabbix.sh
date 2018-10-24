@@ -4,9 +4,9 @@ User="zabbix"
 
 Passwd="zabbix"
 
-HIS_Date=`date -d $(date -d "-30 day" +%Y%m%d) +%s` #取90天之前的时间戳
+HIS_Date=`date -d $(date -d "-30 day" +%Y%m%d) +%s` #取30天之前的时间戳
 
-TRE_Date=`date -d $(date -d "-30 day" +%Y%m%d) +%s` #取365天之前的时间戳
+TRE_Date=`date -d $(date -d "-30 day" +%Y%m%d) +%s` #取30天之前的时间戳
 
 $(which mysql) -u${User} -p${Passwd} -e "
 
