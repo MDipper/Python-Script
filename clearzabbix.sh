@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#清理zabbix 30天之前的历史数据
 User="zabbix"
 
 Passwd="zabbix"
