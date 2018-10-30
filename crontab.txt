@@ -1,0 +1,7 @@
+# Python-Script
+
+0 12 1 * * sh /home/script/clearzabbix.sh
+0 13 * * * sh /home/script/mysql_backup.sh
+0 14 * * * sh /home/script/zabbix_backup.sh
+*  6 * * 1 find /home/sql_backup/*  -name  "MySQL_BAK_*" -ctime +7 -exec rm -rf {} \;
+*  6 * * 1 find /home/sql_backup/*  -name  "Zabbix_BAK_*" -ctime +7 -exec rm -rf {} \;
