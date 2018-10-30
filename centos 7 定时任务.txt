@@ -1,4 +1,6 @@
 # Python-Script
+crontab -e
+
 
 0 12 1 * * sh /home/script/clearzabbix.sh
 0 13 * * * sh /home/script/mysql_backup.sh
